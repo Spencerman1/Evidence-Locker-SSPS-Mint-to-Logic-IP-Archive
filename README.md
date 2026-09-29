@@ -4,3 +4,5 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 
 Evidence-Locker-SSPS-Mint-to-Logic-IP-Archive
 Centralized, time-stamped archive of documents, exports, and sealed snapshots preserving the intellectual property record of Southern Star Pro. Studios™. Functions as both a working repository (for browsable files) and an immutable evidence locker (for zipped archives).
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
